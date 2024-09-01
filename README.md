@@ -4,7 +4,7 @@ This is just an useless package just to learn about npm packages and deployments
 
 ## Ejemplo
 ```jsx
-import { ProductCard } from 'do-product-card';
+import { ProductCard } from 'mrs-product-card';
 ```
 
 ```jsx
