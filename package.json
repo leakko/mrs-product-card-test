@@ -7,6 +7,17 @@
     "dist",
     "src"
   ],
+  "repository": {
+    "url": "https://github.com/leakko/mrs-product-card-test",
+    "type": "git"
+  },
+  "homepage": "https://www.marcossalvo.com/",
+  "keywords": [
+    "product",
+    "card",
+    "marcos",
+    "salvo"
+  ],
   "engines": {
     "node": ">=10"
   },
